@@ -33,27 +33,27 @@
             <Font name="System Bold" size="18.0" />
          </font>
       </Button>
-      <Button fx:id="btn11" layoutX="14.0" layoutY="159.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="145.0" text="4">
+      <Button fx:id="btn4" layoutX="14.0" layoutY="159.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="145.0" text="4">
          <font>
             <Font name="System Bold" size="18.0" />
          </font>
       </Button>
-      <Button fx:id="btn21" layoutX="159.0" layoutY="159.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="145.0" text="5">
+      <Button fx:id="btn5" layoutX="159.0" layoutY="159.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="145.0" text="5">
          <font>
             <Font name="System Bold" size="18.0" />
          </font>
       </Button>
-      <Button fx:id="btn31" layoutX="304.0" layoutY="159.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="145.0" text="6">
+      <Button fx:id="btn6" layoutX="304.0" layoutY="159.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="145.0" text="6">
          <font>
             <Font name="System Bold" size="18.0" />
          </font>
       </Button>
-      <Button fx:id="btn12" layoutX="14.0" layoutY="213.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="145.0" text="7">
+      <Button fx:id="btn7" layoutX="14.0" layoutY="213.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="145.0" text="7">
          <font>
             <Font name="System Bold" size="18.0" />
          </font>
       </Button>
-      <Button fx:id="btn22" layoutX="159.0" layoutY="213.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="145.0" text="8">
+      <Button fx:id="btn8" layoutX="159.0" layoutY="213.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="145.0" text="8">
          <font>
             <Font name="System Bold" size="18.0" />
          </font>
